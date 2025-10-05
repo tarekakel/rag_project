@@ -1,0 +1,8 @@
+langchain>=0.2.14
+langchain-community>=0.2.10
+openai
+python-dotenv
+newspaper3k
+newspaper
+lxml
+lxml_html_clean
